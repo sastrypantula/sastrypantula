@@ -15,7 +15,6 @@
 
 
 <h2>Skills 🛠️</h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
@@ -25,12 +24,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios/50/FFD700/express-js.png" width="40" height="40"/> <!-- Yellow Express -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
+
+
 
 <h2>Projects 🚀</h2>
 
@@ -66,8 +67,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sastrypantula&show_icons=true&theme=algolia" alt="GitHub Stats" />
 </p>
 
-<h2>LeetCode Stats 📝</h2>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sivaramasastrypantula?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</p>
+
